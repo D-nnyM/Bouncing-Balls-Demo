@@ -5,4 +5,3 @@ adding better movement, and two player functionality
 
 here's the project link:
 
-https://d-nnym.github.io/Bouncing-Balls-Demo/
